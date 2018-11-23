@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "removeComments": true,
+        "noImplicitAny":false,
+        "suppressImplicitAnyIndexErrors":false,
+        "sourceMap": true,
+        "preserveConstEnums": true,
+        "esModuleInterop":true,
+        "allowJs": true
+    }
+ }
